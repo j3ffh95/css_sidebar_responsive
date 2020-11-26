@@ -12,3 +12,10 @@ body {
   height: 100%;
   overflow: auto;
 }
+
+.sidebar a {
+  display: block;
+  color: black;
+  padding: 16px;
+  text-decoration: none;
+}
